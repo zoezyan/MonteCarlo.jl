@@ -1,7 +1,9 @@
 [deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+ChpSim = "c133084b-7dba-4976-8ce9-624a349e415e"
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
 JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
 MonteCarlo = "7ed9e010-db43-58a0-91f1-3971ebfac852"
-PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
-StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
